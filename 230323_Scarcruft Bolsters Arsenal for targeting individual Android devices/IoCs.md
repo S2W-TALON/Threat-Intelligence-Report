@@ -4,12 +4,12 @@
 
 |     MD5                          | SHA256                                                           | Type                  |
 |----------------------------------|------------------------------------------------------------------|-----------------------|
-| 5dde5f5fcc1ebfd932e1ef0bfcc7b272 | 9190dfb4d9f5ec294c5b385b50e2791d546a737e78e92d077e2c7d0f35d37865 | APK(TEST)             |
-| 957ebfbd0b23a164529d7510ca89ddae | 748f0724c50bb4e494f8e92e495fa8ef6848a83fbdaf4ec606c8fb50c3ce8f51 | APK(Type A)           |
-| 3ae92bc233dd6a4412aa77da4dc44a19 | e6a7615d29b287f14ee044cd4e8e786f26709636cffb5f455cf500336ab96810 | APK(Type A)           |
-| ae767e4658a5d235ec614eaa8655da0d | e80b454d6fb6477568c7c1f2ce474aa6c560ecbd9e6f0dd8178f641f2fdb9a2b | APK(Type B)           |
-| be6f13d6e7ae5039aed46d1f8844f3ee | 437c4348a34067872f1ef2456e4dd9e1b9de000559cbe296a6c9977f3470edc1 | APK(Type B)           |
-| 0711102cbfcf18a3672a892c4ea31ad1 | 97d8aed87ec78d975aaff4a63415badf95635616686a7ad4a3257e02b6ca2400 | APK(Type C)           |
+| 5dde5f5fcc1ebfd932e1ef0bfcc7b272 | 9190dfb4d9f5ec294c5b385b50e2791d546a737e78e92d077e2c7d0f35d37865 | Cumulus(TEST)         |
+| 957ebfbd0b23a164529d7510ca89ddae | 748f0724c50bb4e494f8e92e495fa8ef6848a83fbdaf4ec606c8fb50c3ce8f51 | Cumulus(Type A)       |
+| 3ae92bc233dd6a4412aa77da4dc44a19 | e6a7615d29b287f14ee044cd4e8e786f26709636cffb5f455cf500336ab96810 | Cumulus(Type A)       |
+| ae767e4658a5d235ec614eaa8655da0d | e80b454d6fb6477568c7c1f2ce474aa6c560ecbd9e6f0dd8178f641f2fdb9a2b | Cumulus(Type B)       |
+| be6f13d6e7ae5039aed46d1f8844f3ee | 437c4348a34067872f1ef2456e4dd9e1b9de000559cbe296a6c9977f3470edc1 | Cumulus(Type B)       |
+| 0711102cbfcf18a3672a892c4ea31ad1 | 97d8aed87ec78d975aaff4a63415badf95635616686a7ad4a3257e02b6ca2400 | Cumulus(Type C)       |
 | e4f781e00bc48f88a717095deb78be6f | e8eba9d664eb23557338b9179b8ddfc8e99f5c3e57093f3b5cf0104d1f48101f | Clugin 1.x            |
 | ce3104fe4184558feea707368846c226 | fe7a8e5a5085c5043336be86a6a6301322b2b33b3dce7ac03251d65070dc7f7f | Clugin 1.x            |
 | 97856a842ff8161576fee5ad3fd0ec67 | 1975ea1d437653a1bc85896525a10bc938674f1d8dd2434ce28db459e8289091 | Clugin 1.x            |
