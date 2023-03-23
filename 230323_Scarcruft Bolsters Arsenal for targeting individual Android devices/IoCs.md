@@ -1,5 +1,5 @@
-## IoCs of Scarcruft Bolsters Arsenal for targeting individual Android devices ##
-Link: https://medium.com/s2wblog/scarcruft-bolsters-arsenal-for-targeting-individual-android-devices-97d2bcef4ab
+## IoCs of Scarcruft Bolsters Arsenal for targeting individual Android devices 
+#### Link: https://medium.com/s2wblog/scarcruft-bolsters-arsenal-for-targeting-individual-android-devices-97d2bcef4ab ####
 -------------------------------------------------------------------------------------------------------------------------
 
 |                MD5               |                              SHA256                              |     Type     |
