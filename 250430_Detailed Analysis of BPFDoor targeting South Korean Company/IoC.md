@@ -1,4 +1,4 @@
-# IoCs for analysis report (Unlocking Ransomware: Tools for Analyzing and Decrypting Windows Locker)
+# IoCs for analysis report (Detailed Analysis of BPFDoor targeting South Korean Company)
 
 | MD5 | SHA256 | Type |
 |:---:|:---:|:---:|
