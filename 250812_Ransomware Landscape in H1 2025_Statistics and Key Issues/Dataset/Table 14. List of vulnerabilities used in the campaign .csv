@@ -1,0 +1,34 @@
+﻿Num,CVE,Type,Description,Ransomware Group
+1,CVE-2023-22527,1-day,Remote Code Execution,"LockBit, ELPACO"
+2,CVE-2024-24919,0-day,NULL Pointer Dereference,Green Nailao
+3,CVE-2009-3960 ,1-day,Remote Code Execution,Ghost
+4,CVE-2010-2861 ,1-day,Remote Code Execution,Ghost
+5,CVE-2018-13379,1-day,Directory Traversal,Ghost
+6,CVE-2019-0604 ,1-day,Remote Code Execution,Ghost
+7,CVE-2021-31207,1-day,File Upload,Ghost
+8,CVE-2021-34473 ,1-day,Remote Code Execution,Ghost
+9,CVE-2021-34523,1-day,Privilege Escalation,Ghost
+10,CVE-2020-1472,1-day,Privilege Escalation,RansomHub
+11,CVE-2021-42278,1-day,Privilege Escalation,RansomHub
+12,CVE-2022-24521 ,1-day,Privilege Escalation,RansomHub
+13,CVE-2023-27532,1-day,Missing Authentication for Critical Function,RansomHub
+14,CVE-2024-3400,1-day,Command Injection,RansomHub
+15,CVE-2021-20038,1-day,Buffer Overflow,Abyss
+16,CVE-2017-10271,1-day,Remote Code Execution,Hunters International
+17,CVE-2019-2725 ,1-day,Remote Code Execution,Hunters International
+18,CVE-2019-2729,1-day,Remote Code Execution,Hunters International
+19,CVE-2023-27532,1-day,Missing Authentication for Critical Function,STAC4365
+20,CVE-2025-24472,1-day,Authentication Bypass,Mora_001
+21,CVE-2023-48788,1-day,SQL Injection,Medusa
+22,CVE-2024-1709,1-day,Authentication Bypass,Medusa
+23,CVE-2025-29824,0-day,Use-After-Free,Storm-2460
+24,CVE-2024-57727,1-day,Path Traversal ,PLAY
+25,CVE-2025-29824,0-day,Use-After-Free,PLAY
+26,CVE-2025-31161,1-day,Authentication Bypass,Killsec
+27,CVE-2025-26633,0-day,Improper Neutralization,EncryptHub
+28,CVE-2024-57726,1-day,Missing Authorization,DragonForce
+29,CVE-2024-57728,1-day,File Upload,DragonForce
+30,CVE-2024-57727,1-day,Path Traversal ,DragonForce
+31,CVE-2025-31324,0-day,File Upload,"RansomExx, BianLian"
+32,CVE-2024-21762,1-day,Out-of-bounds Write,Qilin
+33,CVE-2024-55591,1-day,Out-of-bounds Write,Qilin
